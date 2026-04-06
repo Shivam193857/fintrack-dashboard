@@ -23,8 +23,7 @@ A responsive, interactive personal finance dashboard built with React and Chakra
 1. **Clone the repository:**
    ```bash
    git clone [your-repo-link-here]
-   Gemini said
-   Here is a clean, professional README designed specifically to show the evaluators exactly how you hit all their requirements. It skips the fluff and gets right to the technical details they care about.
+   
    ```
 
 You can copy and paste this directly into a README.md file in your project root.
