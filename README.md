@@ -18,17 +18,6 @@ A responsive, interactive personal finance dashboard built with React and Chakra
 - **Data Visualization:** Recharts
 - **Icons/Emojis:** Native OS Emojis (for zero-dependency fast loading)
 
-## 📦 Running the Project Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [your-repo-link-here]
-   
-   ```
-
-You can copy and paste this directly into a README.md file in your project root.
-
-Markdown
 
 # FinTrack - Personal Finance Dashboard
 
